@@ -1,0 +1,44 @@
+{
+    "name": "Prasanth",
+    "contact": {
+      "email": "prasanthofficial2022@gmail.com",
+      "phone": "7604892207",
+      "linkedin": "https://www.linkedin.com/in/prasanth-engineer/"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Mechanical",
+        "institution": "Kumarasamy college of engineering",
+        "year": 2021
+      }
+    ],
+    "experience": [
+      {
+        "title": "Quality Engineer",
+        "company": "Anand Engineering",
+        "year": "2021-2024",
+        "responsibilities": [
+          "Inspecting the raw materials",
+          "Quality check in standards",
+          "Implementing best practices in process"
+        ]
+      },
+      {
+        "title": "GET",
+        "company": "Anand Engineering",
+        "year": "2021-2024",
+        "responsibilities": [
+          "Assisted in process developement",
+          "Participated in process evaluation"
+        ]
+      }
+    ],
+    "skills": ["Drawing Interpretation", "Quality Standard"],
+    "certifications": [
+      {
+        "name": "Certified QA Inspector",
+        "year": 2023
+      }
+    ]
+  }
+  
